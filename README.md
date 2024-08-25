@@ -25,7 +25,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/invoice-generator.git
+   git clone https://github.com/madhvm/invoicify.git
    cd invoice-generator
 
 2. **Install dependencies**:
@@ -38,13 +38,5 @@
    ```bash
    npm start
 
-Contact
+##Contact
 For any inquiries or suggestions, please contact malimadhav345@gmail.com.
-
-
-### Instructions:
-- Replace `your-username` and `your-repo-name` with your actual GitHub username and repository name.
-- Update the contact email and GitHub repository URL to your actual details.
-- Add or remove sections based on the specific needs of your project.
-
-This `README.md` should provide a clear overview of your project and instructions for setup and deployment.
